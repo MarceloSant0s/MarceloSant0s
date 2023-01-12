@@ -18,7 +18,7 @@
 #
 # SOCIAL LINKS
 
- <a href = "https://https://www.linkedin.com/in/marcelosantosf/"><img width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a href = "https://beacons.ai/aluc4rd
+ <a href = "https://www.linkedin.com/in/marcelosantosf/"><img width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a href = "https://beacons.ai/aluc4rd
 /"> <img width="120" src="https://influencermarketinghub.com/wp-content/uploads/2021/05/60f3709027327b3c7d731c4c_beacons.png"/><a href = "https://tryhackme.com/p/Marcel0DSF
 /"> <img width="60" src="https://cdn.shopify.com/s/files/1/0275/0716/3203/files/THMlogo-gray_scale_824x.png?v=1614347081"/><a href = "https://app.hackthebox.com/profile/1090810
 /"> <img width="120" src="https://doimages.nyc3.digitaloceanspaces.com/hackthebox-logo@4x.png"/>
