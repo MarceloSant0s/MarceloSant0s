@@ -40,3 +40,8 @@
 
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo_Santos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo_Santos&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
